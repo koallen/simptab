@@ -17,12 +17,12 @@
 
     "extension_name": {
         "message": "SimpTab - Minimalistic New Tab",
-        "description": "Minimalistic's chrome new tab page extension, simptab, New Tab, New Tab page, Beautiful New Tab"
+        "description": "Minimalistic Chrome New Tab page extension, SimpTab, New Tab, New Tab page, Beautiful New Tab"
     },
 
     "extension_desc": {
-        "message": "Minimalistic's chrome new tab page extension, hope every time open, you have a good mood.",
-        "description": "Minimalistic's chrome new tab page extension, simptab, New Tab, New Tab page, Beautiful New Tab"
+        "message": "Minimalistic Chrome New Tab page extension, wishing you a good mood every time you open.",
+        "description": "Minimalistic Chrome New Tab page extension, SimpTab, New Tab, New Tab page, Beautiful New Tab"
     },
 
     "controlbar_newtab": {
@@ -66,7 +66,7 @@
     },
 
     "controlbar_manage": {
-        "message": "BG Manage"
+        "message": "BG Manager"
     },
 
     "controlbar_options": {
@@ -114,7 +114,7 @@
     },
 
     "setting_background_forever": {
-        "message": "Not Change background"
+        "message": "Keep current background"
     },
 
     "setting_background_earth": {
@@ -178,7 +178,7 @@
     },
 
     "setting_multi_origin_9": {
-        "message": "Add SimpTab"
+        "message": "Add SimpTab Collections"
     },
 
     "setting_multi_origin_10": {
@@ -206,7 +206,7 @@
     },
 
     "setting_ts_state_senior": {
-        "message": "Senior mode"
+        "message": "Advanced mode"
     },
 
     "setting_pin_tooltip": {
@@ -278,7 +278,7 @@
     },
 
     "mange_explore_empty": {
-        "message": "Not any background image"
+        "message": "No background image"
     },
 
     "mange_explore_loading": {
@@ -302,27 +302,27 @@
     },
 
     "shortcuts_title": {
-        "message": "Shortcut Keymaps"
+        "message": "Shortcut Overview"
     },
 
     "shortcuts_key_global_title": {
-        "message": "Global Keymaps"
+        "message": "Global Shortcuts"
     },
 
     "shortcuts_key_others_title": {
-        "message": "Others Keymaps"
+        "message": "Others Shortcuts"
     },
 
     "shortcuts_key_control_title": {
-        "message": "Controlbar Keymaps"
+        "message": "Controlbar Shortcuts"
     },
 
     "shortcuts_key_esc": {
-        "message": "Quit current mode"
+        "message": "Exit current mode"
     },
 
     "shortcuts_key_help": {
-        "message": "Open/Close Keymaps"
+        "message": "Open/Close Shortcut Overview"
     },
 
     "shortcuts_key_up": {
@@ -330,7 +330,7 @@
     },
 
     "shortcuts_key_opt": {
-        "message": "Open/Close zen mode or photograph option"
+        "message": "Open/Close zen mode or photograph mode's settings bar"
     },
 
     "shortcuts_key_zen": {
@@ -362,11 +362,11 @@
     },
 
     "shortcuts_key_left": {
-        "message": "Previous histor background"
+        "message": "Previous background in history"
     },
 
     "shortcuts_key_right": {
-        "message": "Next histor background"
+        "message": "Next background in history"
     },
 
     "about_content_more": {
@@ -374,15 +374,15 @@
     },
 
     "about_content_begin": {
-        "message": "<p>Hi, my name is <a href='http://kenshin.wang' target='_blank'>Kenshin</a>, Thank you for using SimpTab. I hope it can make some difference to your unchanging New Tab; "
+        "message": "<p>Hi, my name is <a href='http://kenshin.wang' target='_blank'>Kenshin</a>, Thank you for using SimpTab. I hope it can make some difference to your perpetual New Tab; "
     },
 
     "about_content_middle": {
-        "message": "SimpTab only focuses on how to better present the background in new tab，this backgrounds come from: <code>bing</code> · <code>unsplash</code> · <code>flickr</code> · <code>wallhaven</code> · <code>google art</code> · <code>desktoppr</code> · <code>visualhunt</code>. <br>SimpTab also has its own <code>collections</code>, like the wallpaper app on the iPhone，Present your wallpaper as a New Tab background to you by <code>manual filtering</code>, This is also the most unusual place.</p>"
+        "message": "SimpTab only focuses on how to better present the background in new tab，these backgrounds come from: <code>bing</code> · <code>unsplash</code> · <code>flickr</code> · <code>wallhaven</code> · <code>google art</code> · <code>desktoppr</code> · <code>visualhunt</code>. <br>SimpTab also has its own <code>collections</code>, like wallpaper apps on the iPhone，which present to you <code>manually filtered</code> wallpapers suitable for use as a New Tab background. This is also the most unique aspect of SimpTab.</p>"
     },
 
     "about_content_end": {
-        "message": "<p style='margin-top: 14px;'>If you have a good work or suitable background, please also tell SimpTab, Submission address 👉 <a href='https://goo.gl/forms/oThieQCP6xk626GU2' target='_blank'>Google Form</a><br> Give me a <a href='https://chrome.google.com/webstore/detail/%E7%AE%80-tab-simptab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/kbgmbmkhepchmmcnbdbclpkpegbgikjc' target='_blank'>5-star</a> rating, Send feedback and submit <a href='https://github.com/Kenshin/simptab/issues/new' target='_blank'>issues</a>, with your help to be more perfect.<br></p>"
+        "message": "<p style='margin-top: 14px;'>If you have a good artwork or suitable background, please also let SimpTab know. Submission address 👉 <a href='https://goo.gl/forms/oThieQCP6xk626GU2' target='_blank'>Click here</a><br>If you like it, please give me a <a href='https://chrome.google.com/webstore/detail/%E7%AE%80-tab-simptab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/kbgmbmkhepchmmcnbdbclpkpegbgikjc' target='_blank'>5-star</a> rating, Send feedback and submit <a href='https://github.com/Kenshin/simptab/issues/new' target='_blank'>issues</a>, your help makes SimpTab even better.<br></p>"
     },
 
     "options_head": {
@@ -390,19 +390,19 @@
     },
 
     "options_custom_unsplash": {
-        "message": "Backgrounds"
+        "message": "Background sources"
     },
 
     "options_custom_unsplash_cbx": {
-        "message": "Does the subscribe show the background in sequence? ( Default is random loading)"
+        "message": "Should the collection show the backgrounds in sequence? (Default is random loading)"
     },
 
     "options_custom_unsplash_label": {
-        "message": "Custom Unsplash origins"
+        "message": "Custom Unsplash sources"
     },
 
     "options_custom_unsplash_notice": {
-        "message": "Support custom e.g. https://source.unsplash.com/<b>{xxxx}</b> usage , split about more <a href='https://source.unsplash.com/' target='_blank'>Unsplash Source</a>"
+        "message": "Support custom sources like https://source.unsplash.com/<b>{xxxx}</b>, separated by comma. For details, please visit <a href='https://source.unsplash.com/' target='_blank'>custom Unsplash source</a>"
     },
 
     "options_custom_unsplash_screen_label": {
@@ -414,7 +414,7 @@
     },
 
     "options_custom_unsplash_screen_notice": {
-        "message": "Custom resolution: widthxheigh e.g 3200x1800 4096x2160"
+        "message": "Custom resolution format: widthxheigh e.g 3200x1800 4096x2160. For details, please visit <a href='http://ksria.com/simptab/docs/#/背景源?id=更改unsplash源分辨率' target='_blank'>custom Unsplash resolution</a>"
     },
 
     "options_custom_mobile_lable": {
@@ -426,15 +426,15 @@
     },
 
     "options_custom_mobile_notice": {
-        "message": "First JSBox is required to be installed on iOS, for details <a href='http://ksria.com/simptab/docs/#/发送到手机' target='_blank'>Send to mobile</a>"
+        "message": "JSBox need to be installed on iOS first, for details please visit <a href='http://ksria.com/simptab/docs/#/发送到手机' target='_blank'>Send to mobile</a>"
     },
 
     "options_carousel_label": {
-        "message": "Usage play automatically show next background?"
+        "message": "Should the background automatically change?"
     },
 
     "options_carousel_value_1": {
-        "message": "Nothing"
+        "message": "No"
     },
 
     "options_carousel_value_5": {
@@ -454,51 +454,51 @@
     },
 
     "options_carousel_value_suffix": {
-        "message": "changed"
+        "message": "Change"
     },
 
     "options_carousel_notice": {
-        "message": "When playing automatically, it is not recommended to close the TAB, and <a href='http://ksria.com/simptab/docs/#/白噪音' target='_blank'>white noise</a> effect is better."
+        "message": "When changing automatically, it is recommended NOT to close the tab, and it's better paired with <a href='http://ksria.com/simptab/docs/#/白噪音' target='_blank'>white noise</a>."
     },
 
     "options_history_label": {
-        "message": "History background is enabled?"
+        "message": "Enable background history?"
     },
 
     "options_history_notice": {
-        "message": "When enabled, up to five history background records and only used by 'Change background randomly' model."
+        "message": "When enabled, up to five backgrounds will be saved in history and this is only used by the 'Automatic background change' feature."
     },
 
     "options_download_label": {
-        "message": "Enabel Custom download folder?"
+        "message": "Enabel custom download folder?"
     },
 
     "options_download_notice": {
-        "message": "Usage mklink / ln / Haze / Automatorz Automatic download background image."
+        "message": "With tools like 'Haze' or 'Automator', you could automatically change the background on PC. For details, please visit <a href='http://ksria.com/simptab/docs/#/背景源?id=自定义下载位置' target='_blank'>Custom download folder</a>."
     },
 
     "options_download_placeholder": {
-        "message": "Default Chrome download path"
+        "message": "Default follows the Chrome download path"
     },
 
     "options_custom_style": {
-        "message": "Custom global Style"
+        "message": "Custom global style"
     },
 
     "options_custom_style_notice": {
-        "message": "Custom global Style"
+        "message": "Compared to custom Zen mode style, the custom global style applies globally. For details, please visit <a href='http://ksria.com/simptab/docs/#/选项页?id=自定义样式' target='_blank'>custom style</a>"
     },
 
     "options_bookmarks": {
-        "message": "Bookmarks"
+        "message": "Bookmarks bar"
     },
 
     "options_bookmarks_label": {
-        "message": "Enable Bookmarks?"
+        "message": "Enable bookmarks bar?"
     },
 
     "options_bookmarks_notice": {
-        "message": "Default disable Bookmarks, if enable, please enable Bookmarks permissions."
+        "message": "Disabled by default, requires Bookmarks permissions when enabling."
     },
 
     "options_custom_tp": {
@@ -514,7 +514,7 @@
     },
 
     "options_custom_tp_notice": {
-        "message": "Only supports max 9 web sites, one per line, usage , split → simptab, http://ksria.com/simptab"
+        "message": "Only supports max 9 web sites, one per line with name and URL separated by comma. For example, 'simptab, http://ksria.com/simptab'."
     },
 
     "options_custom_search": {
@@ -522,15 +522,15 @@
     },
 
     "options_custom_search_notice": {
-        "message": "Usage shortcuts q s Open"
+        "message": "Requires <a href='http://ksria.com/simptab/docs/#/书签栏' target='_blank'>bookmarks bar</a> enabled, use the shortcut 'q s'. For details, please visit <a href='http://ksria.com/simptab/docs/#/选项页?id=自定义搜索' target='_blank'>custom search</a>"
     },
 
     "options_custom_script": {
-        "message": "Custom script"
+        "message": "Custom global script"
     },
 
     "options_custom_script_notice": {
-        "message": "This is script is global, so can usage zen-mode."
+        "message": "Compared to Zen mode script, these scripts can be used globally. For details, please visit <a href='http://ksria.com/simptab/docs/#/选项页?id=自定义脚本' target='_blank'>custom script</a>"
     },
 
     "options_custom_title": {
@@ -538,7 +538,7 @@
     },
 
     "options_custom_title_notice": {
-        "message": "Support text and (function(){xxxx})()"
+        "message": "Supports text and (function(){xxxx})(). For details, please visit <a href='http://ksria.com/simptab/docs/#/选项页?id=自定义标题' target='_blank'>custom title</a>"
     },
 
     "options_custom_hour": {
